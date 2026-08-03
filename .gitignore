@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Saved models — 57 MB each, regenerate with src/train.py
+models/*.keras
+models/*.h5
+models/*.weights.h5
